@@ -1,0 +1,12 @@
+server:
+  protocol:
+  - ws:
+      port: 1088
+  - http: 
+      port: 80
+  - https:
+      port: 443
+  - tcp:
+      port: 1089
+  - udp:
+      port: 1090
