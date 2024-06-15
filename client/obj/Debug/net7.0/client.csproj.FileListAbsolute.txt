@@ -1,0 +1,11 @@
+/Users/ykk/Documents/Works/Github/tinynet/client/obj/Debug/net7.0/client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ykk/Documents/Works/Github/tinynet/client/obj/Debug/net7.0/client.AssemblyInfoInputs.cache
+/Users/ykk/Documents/Works/Github/tinynet/client/obj/Debug/net7.0/client.AssemblyInfo.cs
+/Users/ykk/Documents/Works/Github/tinynet/client/obj/Debug/net7.0/client.csproj.CoreCompileInputs.cache
+/Users/ykk/Documents/Works/Github/tinynet/client/bin/Debug/net7.0/client.deps.json
+/Users/ykk/Documents/Works/Github/tinynet/client/bin/Debug/net7.0/client.dll
+/Users/ykk/Documents/Works/Github/tinynet/client/bin/Debug/net7.0/client.pdb
+/Users/ykk/Documents/Works/Github/tinynet/client/obj/Debug/net7.0/client.dll
+/Users/ykk/Documents/Works/Github/tinynet/client/obj/Debug/net7.0/refint/client.dll
+/Users/ykk/Documents/Works/Github/tinynet/client/obj/Debug/net7.0/client.pdb
+/Users/ykk/Documents/Works/Github/tinynet/client/obj/Debug/net7.0/ref/client.dll

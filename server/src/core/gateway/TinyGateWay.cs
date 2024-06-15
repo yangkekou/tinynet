@@ -1,4 +1,5 @@
-using System.Reflection.PortableExecutable;
+
+using TinyNet.Core.Config;
 
 public static class TinyGateWay
 {

@@ -1,0 +1,4 @@
+/Users/ykk/Documents/Works/Github/tinynet/server/obj/Debug/net7.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ykk/Documents/Works/Github/tinynet/server/obj/Debug/net7.0/server.AssemblyInfoInputs.cache
+/Users/ykk/Documents/Works/Github/tinynet/server/obj/Debug/net7.0/server.AssemblyInfo.cs
+/Users/ykk/Documents/Works/Github/tinynet/server/obj/Debug/net7.0/server.csproj.CoreCompileInputs.cache
